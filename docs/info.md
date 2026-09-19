@@ -1,20 +1,17 @@
-<!---
-
-This file is used to generate your project datasheet. Please fill in the information below and delete any unused
-sections.
-
-You can also include images in this folder and reference them in the markdown. Each image must be less than
-512 kb in size, and the combined size of all images must be less than 1 MB.
--->
-
 ## How it works
 
-Explain how your project works
+This project is a digital circuit designed using the Tiny Tapeout Wokwi template. The circuit receives input signals through the available input pins, processes them using the implemented digital logic, and produces the corresponding output signals.
+
+The design can be simulated in Wokwi to verify that the circuit responds correctly to different input conditions.
 
 ## How to test
 
-Explain how to use your project
+1. Open the project in Wokwi.
+2. Start the simulation.
+3. Change the available input signals using the switches or buttons in the simulation.
+4. Observe the output signals.
+5. Verify that the outputs change according to the expected behavior of the digital circuit.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+The project uses the components provided in the Tiny Tapeout Wokwi simulation template. No additional external hardware is required.
